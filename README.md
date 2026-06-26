@@ -1,2 +1,0 @@
-# PYTHON-SCRIPTS-FOR-INVOICES
-Parsing invoices
